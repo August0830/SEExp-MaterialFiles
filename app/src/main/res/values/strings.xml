@@ -242,7 +242,7 @@
     <string name="file_create_archive_type_7z">.7z</string>
     <string name="file_add_bookmark_success">Bookmark added</string>
     <string name="file_create_file_title">New file</string>
-    <string name="file_create_directory_title">New folder</string>
+    <string name="file_create_directory_title">New Folder</string>
 
     <string name="file_list_title">Files</string>
     <plurals name="file_list_title_pick_file">
