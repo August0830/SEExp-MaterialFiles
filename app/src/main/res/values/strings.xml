@@ -291,7 +291,7 @@
     <string name="file_list_action_create_directory">Folder</string>
 
     <string name="file_item_description_separator">\u0020\u0020\u0020\u0020</string>
-    <string name="file_item_action_open_with">Open with</string>
+    <string name="file_item_action_open_with">Open With</string>
     <string name="file_item_action_extract">Extract</string>
     <string name="file_item_action_archive">Compress</string>
     <string name="file_item_action_copy_path">@string/file_list_action_copy_path</string>
