@@ -10,11 +10,16 @@
     <item
         android:id="@+id/action_open_with"
         android:title="@string/file_item_action_open_with" />
-
     <item
         android:id="@+id/action_cut"
         android:title="@string/cut" />
 
+    <item
+        android:id="@+id/action_properties"
+        android:title="@string/file_item_action_properties" />
+    <item
+        android:id="@+id/action_archive"
+        android:title="@string/file_item_action_archive" />
     <item
         android:id="@+id/action_copy"
         android:title="@string/copy" />
@@ -32,10 +37,6 @@
         android:title="@string/file_item_action_extract" />
 
     <item
-        android:id="@+id/action_archive"
-        android:title="@string/file_item_action_archive" />
-
-    <item
         android:id="@+id/action_share"
         android:title="@string/share" />
 
@@ -51,7 +52,4 @@
         android:id="@+id/action_create_shortcut"
         android:title="@string/file_item_action_create_shortcut" />
 
-    <item
-        android:id="@+id/action_properties"
-        android:title="@string/file_item_action_properties" />
 </menu>
